@@ -12,6 +12,7 @@ Features
 - Calculate total expenses.
 - Display monthly expense summaries.
 - Automatically save data without deleting previous records.
+  
 Technologies Used
 - Python
 - OOP Concepts
